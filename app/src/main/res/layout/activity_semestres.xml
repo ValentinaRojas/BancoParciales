@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.digital.electronica.bancoparciales.Activitysemestres">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+    <include
+        android:id="@+id/include"
+        layout="@layout/toolbar"/>
+
+        <ScrollView
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:paddingLeft="80dp"
+        android:paddingRight="80dp"
+        android:paddingTop="20dp">
+
+        <Button
+            android:id="@+id/BTNsemestre1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_gravity="end"
+            android:text="Semestre I"
+            android:textColor="@color/blanco"
+            android:background="@drawable/btn_colorazul"/>
+
+        <Button
+            android:id="@+id/BTNsemestre2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_gravity="end"
+            android:text="Semestre II"
+            android:textColor="@color/blanco"
+            android:background="@drawable/btn_colorazul"/>
+
+        <Button
+            android:id="@+id/BTNsemestre3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_gravity="end"
+            android:text="Semestre III"
+            android:textColor="@color/blanco"
+            android:background="@drawable/btn_colorazul"/>
+
+        <Button
+            android:id="@+id/BTNsemestre4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_gravity="end"
+            android:text="Semestre IV"
+            android:textColor="@color/blanco"
+            android:background="@drawable/btn_colorazul"/>
+
+        <Button
+            android:id="@+id/BTNsemestre5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_gravity="end"
+            android:text="Semestre V"
+            android:textColor="@color/blanco"
+            android:background="@drawable/btn_colorazul"/>
+
+        <Button
+            android:id="@+id/BTNsemestre6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_gravity="end"
+            android:text="Semestre VI"
+            android:textColor="@color/blanco"
+            android:background="@drawable/btn_colorazul"/>
+
+        <Button
+            android:id="@+id/BTNsemestre7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_gravity="end"
+            android:text="Semestre VII"
+            android:textColor="@color/blanco"
+            android:background="@drawable/btn_colorazul"/>
+
+        <Button
+            android:id="@+id/BTNsemestre8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_gravity="end"
+            android:text="Semestre VIII"
+            android:textColor="@color/blanco"
+            android:background="@drawable/btn_colorazul"/>
+        <Button
+            android:id="@+id/BTNsemestre9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_gravity="end"
+            android:text="Semestre IX"
+            android:textColor="@color/blanco"
+            android:background="@drawable/btn_colorazul"/>
+
+        <Button
+            android:id="@+id/BTNsemestre10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_gravity="end"
+            android:text="Semestre X"
+            android:textColor="@color/blanco"
+            android:background="@drawable/btn_colorazul"/>
+    </LinearLayout>
+
+        </ScrollView>
+
+    </LinearLayout>
+
+</android.support.design.widget.CoordinatorLayout>
