@@ -32,7 +32,7 @@
         android:layout_gravity="end"
         android:text="Desarrollo de Pensamiento Lógico "
         android:textColor="@color/blanco"
-        android:background="@drawable/btn_colorojo"/>
+        android:background="@drawable/btn_colorazul"/>
 
         <Button
             android:id="@+id/BTNprogra1"
@@ -42,7 +42,7 @@
             android:layout_gravity="end"
             android:text="Programación I"
             android:textColor="@color/blanco"
-            android:background="@drawable/btn_colorojo"/>
+            android:background="@drawable/btn_colorazul"/>
 
 
         <Button
@@ -53,8 +53,8 @@
             android:layout_gravity="end"
             android:text="Introducción a la Informatica"
             android:textColor="@color/blanco"
-            android:background="@drawable/btn_colorojo"/>
-    </LinearLayout>
+            android:background="@drawable/btn_colorazul"/>
+        </LinearLayout>
     </LinearLayout>
 
 

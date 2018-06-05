@@ -32,7 +32,7 @@
                 android:layout_gravity="end"
                 android:text="Laboratorio de Electronica "
                 android:textColor="@color/blanco"
-                android:background="@drawable/btn_colorojo"/>
+                android:background="@drawable/btn_colorazul"/>
 
             <Button
                 android:id="@+id/BTNprogra3"
@@ -42,7 +42,7 @@
                 android:layout_gravity="end"
                 android:text="Programación III"
                 android:textColor="@color/blanco"
-                android:background="@drawable/btn_colorojo"/>
+                android:background="@drawable/btn_colorazul"/>
 
 
             <Button
@@ -53,7 +53,7 @@
                 android:layout_gravity="end"
                 android:text="Introducción a la Informatica"
                 android:textColor="@color/blanco"
-                android:background="@drawable/btn_colorojo"/>
+                android:background="@drawable/btn_colorazul"/>
 
             <Button
                 android:id="@+id/BTNtgs"
@@ -63,7 +63,7 @@
                 android:layout_gravity="end"
                 android:text="Teoria General de Sistemas"
                 android:textColor="@color/blanco"
-                android:background="@drawable/btn_colorojo"/>
+                android:background="@drawable/btn_colorazul"/>
         </LinearLayout>
     </LinearLayout>
 

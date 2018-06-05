@@ -19,7 +19,6 @@ public class ActivityMaterias3 extends AppCompatActivity {
         setContentView(R.layout.activity_materias3);
 
         Toolbar toolbar = findViewById(R.id.include);
-        toolbar.setBackgroundColor(Color.parseColor("#FFD32F2F"));
         setSupportActionBar(toolbar);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         toolbar.setTitle("Materias");

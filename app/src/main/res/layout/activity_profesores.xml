@@ -37,7 +37,7 @@
                     android:clickable="true"
                     android:focusable="true"
                     android:foreground="?android:attr/selectableItemBackground"
-                    app:cardBackgroundColor="@color/rojo"
+                    app:cardBackgroundColor="@color/colorPrimary"
                     app:cardCornerRadius="7dp"
                     app:cardElevation="5dp">
 
@@ -55,7 +55,7 @@
                             android:layout_marginTop="10dp"
                             android:text="Profesor 1"
                             android:textColor="@color/blanco"
-                            android:background="@color/rojo"
+                            android:background="@color/colorPrimary"
                             android:textStyle="bold"
                             />
 
@@ -73,7 +73,7 @@
                     android:clickable="true"
                     android:focusable="true"
                     android:foreground="?android:attr/selectableItemBackground"
-                    app:cardBackgroundColor="@color/rojo"
+                    app:cardBackgroundColor="@color/colorPrimary"
                     app:cardCornerRadius="7dp"
                     app:cardElevation="5dp">
 
@@ -90,7 +90,7 @@
                             android:layout_marginTop="10dp"
                             android:text="Profesor 2"
                             android:textColor="@color/blanco"
-                            android:background="@color/rojo"
+                            android:background="@color/colorPrimary"
                             android:textStyle="bold"
                             />
 
@@ -116,7 +116,7 @@
                     android:clickable="true"
                     android:focusable="true"
                     android:foreground="?android:attr/selectableItemBackground"
-                    app:cardBackgroundColor="@color/rojo"
+                    app:cardBackgroundColor="@color/colorPrimary"
                     app:cardCornerRadius="7dp"
                     app:cardElevation="5dp">
 
@@ -133,7 +133,7 @@
                             android:layout_marginTop="10dp"
                             android:text="Profesor 3"
                             android:textColor="@color/blanco"
-                            android:background="@color/rojo"
+                            android:background="@color/colorPrimary"
                             android:textStyle="bold"
                             />
 
@@ -150,7 +150,7 @@
                     android:clickable="true"
                     android:focusable="true"
                     android:foreground="?android:attr/selectableItemBackground"
-                    app:cardBackgroundColor="@color/rojo"
+                    app:cardBackgroundColor="@color/colorPrimary"
                     app:cardCornerRadius="7dp"
                     app:cardElevation="5dp">
 
@@ -167,7 +167,7 @@
                             android:layout_marginTop="10dp"
                             android:text="Profesor 4"
                             android:textColor="@color/blanco"
-                            android:background="@color/rojo"
+                            android:background="@color/colorPrimary"
                             android:textStyle="bold"
                             />
 

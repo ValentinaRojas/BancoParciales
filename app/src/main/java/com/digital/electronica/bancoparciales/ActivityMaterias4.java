@@ -20,7 +20,6 @@ public class ActivityMaterias4 extends AppCompatActivity {
 
 
         Toolbar toolbar = findViewById(R.id.include);
-        toolbar.setBackgroundColor(Color.parseColor("#FFD32F2F"));
         setSupportActionBar(toolbar);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         toolbar.setTitle("Materias");

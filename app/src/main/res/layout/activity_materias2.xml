@@ -33,7 +33,7 @@
                 android:layout_gravity="end"
                 android:text="Programación II"
                 android:textColor="@color/blanco"
-                android:background="@drawable/btn_colorojo"/>
+                android:background="@drawable/btn_colorazul"/>
 
         </LinearLayout>
     </LinearLayout>

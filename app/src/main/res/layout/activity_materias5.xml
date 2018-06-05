@@ -32,7 +32,7 @@
                 android:layout_gravity="end"
                 android:text="Laboratorio de Electronica Digital "
                 android:textColor="@color/blanco"
-                android:background="@drawable/btn_colorojo"/>
+                android:background="@drawable/btn_colorazul"/>
 
             <Button
                 android:id="@+id/BTNdigital"
@@ -42,7 +42,7 @@
                 android:layout_gravity="end"
                 android:text="Electronica Digital"
                 android:textColor="@color/blanco"
-                android:background="@drawable/btn_colorojo"/>
+                android:background="@drawable/btn_colorazul"/>
 
 
             <Button
@@ -53,7 +53,7 @@
                 android:layout_gravity="end"
                 android:text="Estadistica"
                 android:textColor="@color/blanco"
-                android:background="@drawable/btn_colorojo"/>
+                android:background="@drawable/btn_colorazul"/>
 
             <Button
                 android:id="@+id/BTNprogra4"
@@ -63,7 +63,7 @@
                 android:layout_gravity="end"
                 android:text="Programacion 4"
                 android:textColor="@color/blanco"
-                android:background="@drawable/btn_colorojo"/>
+                android:background="@drawable/btn_colorazul"/>
 
             <Button
                 android:id="@+id/BTNadmi"
@@ -73,7 +73,7 @@
                 android:layout_gravity="end"
                 android:text="Administracion de Eempresas"
                 android:textColor="@color/blanco"
-                android:background="@drawable/btn_colorojo"/>
+                android:background="@drawable/btn_colorazul"/>
 
             <Button
                 android:id="@+id/BTNgramaticas"
@@ -83,7 +83,7 @@
                 android:layout_gravity="end"
                 android:text="Gramaticas y Lenguajes Formales"
                 android:textColor="@color/blanco"
-                android:background="@drawable/btn_colorojo"/>
+                android:background="@drawable/btn_colorazul"/>
         </LinearLayout>
     </LinearLayout>
 

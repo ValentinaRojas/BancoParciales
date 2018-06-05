@@ -19,7 +19,6 @@ public class ActivityProfesores extends AppCompatActivity {
         setContentView(R.layout.activity_profesores);
 
         Toolbar toolbar = findViewById(R.id.include);
-        toolbar.setBackgroundColor(Color.parseColor("#D32F2F"));
         setSupportActionBar(toolbar);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         toolbar.setTitle("Profesores");

@@ -32,7 +32,7 @@
                 android:layout_gravity="end"
                 android:text="Estructura de Datos "
                 android:textColor="@color/blanco"
-                android:background="@drawable/btn_colorojo"/>
+                android:background="@drawable/btn_colorazul"/>
 
             <Button
                 android:id="@+id/BTNlogica"
@@ -42,7 +42,7 @@
                 android:layout_gravity="end"
                 android:text="Lógica"
                 android:textColor="@color/blanco"
-                android:background="@drawable/btn_colorojo"/>
+                android:background="@drawable/btn_colorazul"/>
 
         </LinearLayout>
     </LinearLayout>
