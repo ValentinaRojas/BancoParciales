@@ -55,7 +55,7 @@
                     android:gravity="center">
 
                     <Button
-                        android:id="@+id/btnCancelar"
+                        android:id="@+id/btnagregar"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="Agregar Imagen"
@@ -69,6 +69,7 @@
             </LinearLayout>
 
             <LinearLayout
+                android:id="@+id/layout"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:orientation="vertical"
@@ -80,9 +81,9 @@
 
 
                     <ImageView
+                        android:id="@+id/image23"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:background="@drawable/btn_circulo"
                         android:text="Agregar Imagen"
                         android:textColor="@color/verde"/>
 
